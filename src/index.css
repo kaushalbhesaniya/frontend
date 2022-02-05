@@ -1,0 +1,10 @@
+.slider img {
+  height: 450px;
+  object-fit: cover;
+}
+.form-control {
+  border: none;
+}
+.pointer {
+  cursor: pointer;
+}
